@@ -1,43 +1,110 @@
+
 .logo {
 	width: 100px;
 	margin-top: 30px;
 	margin-left: 30px;
-	margin-right: 27px;
+	margin-right: 40px;
 }
 .a {
 	text-decoration: none;
 	font-size: 22px;
 	color: #3D58A6;
-	padding-left: 22px;
-	padding-right: 22px;
+	padding-left: 11px;
+	padding-right: 11px;
+	font-family: "nino_mtavruli_bold";
 }
-.div{
+.a:hover {
+	color: #EE4036;
+}
+.banner {
+	margin-top: 80px;
+	margin-left: 98px;
+}
+.hendbox {
+	background-color: #F2F2F2;
+	margin-top: 37px;
+	margin-left: 98px;
+	margin-top: 18px;
+}
+.title {
+	margin-top: 17px;
+	margin-left: 22px;
+}
+.hend-picture {
+	width: 101px;
+	margin-left: 39px; 
+	margin-bottom: 42px;
+
+}
+/* start of news wall */
+
+.activ-section {
 	display: inline-block;
-	vertical-align: center;
+	vertical-align: middle;
 }
-.kalendari27 {
-	width: 56px;
+.all{
 	margin-left: 30px;
+}
+.calendar{
 	margin-top: 40px;
+	background: #3D58A6;
+    display: inline-block;
+    font-size: 48px;
+    padding: 7px 7px 0px 7px;
+    color: white;
 }
-.maisi{
-	font-size: 22px;
-	color: #3D58A6;
-	margin-left: 30px;
+.may {
 	margin-top: 8px;
+	color: #3D58A6;
+	font-size: 22px
 }
-.h2{
-	font-size: 16px;
-	margin-left: 30px;
-	margin-top: 30px;
+.article {
+    margin-top: 30px;
+    margin-bottom: 23px;
+    font-size: 20px;
 }
 .onlyface {
 	width: 270px;
-	margin-left: 30px;
-	margin-top: 23px
 }
-.n {
+.paragraph{
+	margin-bottom: 22px;
+	font-size: 16px;
+	font-family: 'bpg_ingiri_arial';
+}
+}
+.h27{ 
+	background: #3D58A6;
+    display: inline-block;
+    font-size: 48px;
+    padding: 7px 7px 0px 7px;
+    color: white;
+}
+.div-picture {
+	float: left;
+	margin-right: 39px; 
+	margin-bottom: 10px;
+	vertical-align: top;
+}
+.b {
+	padding-right: 98px;
+}
+.footer {
+    margin-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.fb {
+	height: 30px;
+}
+.line {
+	width: 1px; 
+	height: 30px;
+	background-color: #3D58A6;
+}
+.social-section {
 	display: inline-block;
-	width: 929px;
-	margin-left: 30px;
+	margin-right: 35px;
+}	
+.tube{
+	height: 30px; 
 }
